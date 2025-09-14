@@ -1,0 +1,34 @@
+# common auxiliary files
+.DS_Store
+*.pyc
+*.o
+.done
+.itime
+a.out
+
+# commonly used build folders
+input/
+output/
+io/
+correttore
+checker
+manager
+english.pdf
+editorial.pdf
+
+# task-maker build folders
+files/
+temp/
+bin/
+fuzz/
+task.yaml
+
+# vscode internals
+.vscode
+__latexindent_temp.tex
+
+# WSL internals
+*:Zone.Identifier
+
+# CMS internals
+.itime_contest
